@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+background: linear-gradient(to right, #3498db, #2c3e50);
+height: auto;
+
+
+}
+
+input:hover {
+  border-color: #66afe9; 
+}   
+.s{
+	border:red solid 1px;
+}
+
+.butt{
+	margin:2em;
+}
+.button:hover {
+  background-color: #2980b9; 
+  border-color: #2980b9;
+  color: #fff; 
+}
+#back{
+	background:gray;
+}
+label{
+	color:rgb(0, 0, 0);
+	font-size: 1.3em;
+}
+
+
+
+

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+	background: linear-gradient(to right, #3498db, #2c3e50);
+
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            display:flex;
+            flex-flow:column;
+            text-align:center;
+            justify-content:center;
+            align-items: center;
+            padding-top:10%;
+            margin-left:20em;
+}
+button{
+	border:white 1px solid;
+}
+label{
+	font-size: 25px;
+}

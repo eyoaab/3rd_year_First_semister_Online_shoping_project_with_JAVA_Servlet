@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+background: linear-gradient(to right, #3498db, #2c3e50);
+
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            display:flex;
+            flex-flow:column;
+            text-align:center;
+            justify-content:center;
+            align-items: center;
+            padding-top:20%;
+            margin-left:20em;
+            
+        }
+
+        h2 {
+            color: rgb(128, 128, 128);
+        }
+
+        .btn-custom {
+            margin: 10px;
+  }
+.container{
+	margin-left: 20vw;
+	 text-align: center;
+            display:flex;
+            flex-flow:column;
+            text-align:center;
+            justify-content:center;
+            align-items: center
+}
